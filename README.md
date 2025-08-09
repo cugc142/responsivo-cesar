@@ -26,7 +26,7 @@ Aquí están las capturas de pantalla que demuestran la adaptabilidad del diseñ
 ### Enlace al Despliegue
 
 Puedes ver la aplicación en vivo en el siguiente enlace:
-[Ver la aplicación desplegada](<ENLACE_A_TU_APLICACION>)
+[Ver la aplicación desplegada](https://responsivo-cesar-4l6g9meiu-cugc142s-projects.vercel.app/)
 
 ---
 *Proyecto desarrollado para la tarea de implementación de diseño responsivo.*
